@@ -11,4 +11,4 @@ Animal Crossing is a brilliant game that is a whole lot of fun, yes, but the abi
 Ehhhh....probably not? The project consists of only assets created by the [It Came From The Gamecube](https://www.videotoaster.neocities.org/itcamefromthegamecube "The project website") team, meaning that all models, textures, and other objects are created by us and should be considered fair use. **HOWEVER:** we are using Nintendo's original IP and are subject to copyright. Frequent backups of the source code are to be made in case of DMCA takedown.
 
 ### What's the DMCA?
-If you would like to know more about the (flawed) DMCA, visit [here](https://en.wikipedia.org/wiki/DMCA).
+If you would like to know more about the (somewhat flawed) DMCA, visit [here](https://en.wikipedia.org/wiki/DMCA).
